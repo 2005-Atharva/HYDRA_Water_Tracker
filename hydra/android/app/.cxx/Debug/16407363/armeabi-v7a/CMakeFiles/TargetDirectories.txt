@@ -1,0 +1,2 @@
+D:/H Y D R A/HYDRA_Water_Tracker/hydra/android/app/.cxx/Debug/16407363/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/H Y D R A/HYDRA_Water_Tracker/hydra/android/app/.cxx/Debug/16407363/armeabi-v7a/CMakeFiles/rebuild_cache.dir
